@@ -22,9 +22,9 @@ In function get_release_velocity(), it get each list we obtain in last step. It 
 
 ## Usage
 ``` python
-$ python imdb.py <movie_series_1> <movie_series_2> begin_year end_year
+python imdb.py <movie_series_1> <movie_series_2> begin_year end_year
 e.g.
-$ python imdb.py "batman" "james bond" 2008 2010
+python imdb.py "batman" "james bond" 2008 2010
 ```
 ## Sample Output
 Movie Name | release date 
