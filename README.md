@@ -76,11 +76,11 @@ James Bond: License to Thrill|1910-01-01 00:00:00
 ****************************************************************************************************
 
 
-batman has released <1> movies from 2008 to 2010
+batman has released <1> movies from 2008 to 2010.
 
-james bond has released <0> movies from 2008 to 2010
+james bond has released <0> movies from 2008 to 2010.
 
-batman is the more popular than james bond
+batman is the more popular than james bond.
 
 
 
