@@ -27,49 +27,52 @@ e.g.
 $ python imdb.py "batman" "james bond" 2008 2010
 ```
 ## Sample Output
-The Batman                                                                       2018-10-05 00:00:00
-The Lego Batman Movie                                                            2017-02-08 00:00:00
-Batman: Dante                                                                    2016-08-05 00:00:00
-Batman: The Killing Joke                                                         2016-07-24 00:00:00
-Batman v Superman: Dawn of Justice                                               2016-03-23 00:00:00
-Batman: Bad Blood                                                                2016-03-22 00:00:00
-Batman vs. Robin                                                                 2015-04-14 00:00:00
-Batman: Assault on Arkham                                                        2014-08-12 00:00:00
-Batman: The Dark Knight Returns, Part 2                                          2013-01-18 00:00:00
-Batman: Year One                                                                 2011-09-27 00:00:00
-Superman/Batman: Public Enemies                                                  2009-09-29 00:00:00
-Batman: Beyond Batman                                                            2005-07-04 00:00:00
-Batman Begins                                                                    2005-06-14 00:00:00
-Batman & Robin                                                                   1997-06-20 00:00:00
-Batman Forever                                                                   1995-05-31 00:00:00
-Batman Returns                                                                   1992-06-19 00:00:00
-Batman                                                                           1989-06-23 00:00:00
-James Batman                                                                     1966-10-26 00:00:00
-Batman                                                                           1966-07-30 00:00:00
-Batman                                                                           1943-07-16 00:00:00
+Movie Name | release date 
+--- | ---
+The Batman | 2018-10-05 00:00:00
+The Lego Batman Movie | 2017-02-08 00:00:00
+Batman: Dante | 2016-08-05 00:00:00
+Batman: The Killing Joke | 2016-07-24 00:00:00
+Batman v Superman: Dawn of Justice | 2016-03-23 00:00:00
+Batman: Bad Blood | 2016-03-22 00:00:00
+Batman vs. Robin | 2015-04-14 00:00:00
+Batman: Assault on Arkham | 2014-08-12 00:00:00
+Batman: The Dark Knight Returns, Part 2 | 2013-01-18 00:00:00
+Batman: Year One | 2011-09-27 00:00:00
+Superman/Batman: Public Enemies | 2009-09-29 00:00:00
+Batman: Beyond Batman|2005-07-04 00:00:00
+Batman Begins|2005-06-14 00:00:00
+Batman & Robin|1997-06-20 00:00:00
+Batman Forever|1995-05-31 00:00:00
+Batman Returns|1992-06-19 00:00:00
+Batman|1989-06-23 00:00:00
+James Batman|1966-10-26 00:00:00
+Batman|1966-07-30 00:00:00
+Batman|1943-07-16 00:00:00
 ****************************************************************************************************
 
-
-James Bond is a Serb                                                             2016-01-06 00:00:00
-Spectre                                                                          2015-10-26 00:00:00
-James Bond                                                                       2015-07-24 00:00:00
-Jatt James Bond                                                                  2014-04-25 00:00:00
-We're Nothing Like James Bond                                                    2012-11-29 00:00:00
-Skyfall                                                                          2012-10-25 00:00:00
-James Bond: For Real                                                             2006-11-22 00:00:00
-Casino Royale                                                                    2006-11-14 00:00:00
-Best Ever Bond                                                                   2002-11-22 00:00:00
-Silhouettes: The James Bond Titles                                               2000-07-25 00:00:00
-The James Bond Story                                                             1999-10-09 00:00:00
-GoldenEye                                                                        1995-11-16 00:00:00
-30 Years of James Bond                                                           1992-10-03 00:00:00
-Octopussy                                                                        1983-06-05 00:00:00
-James Bond In India                                                              1983-01-25 00:00:00
-Goldfinger                                                                       1964-09-17 00:00:00
-Dr. No                                                                           1962-10-04 00:00:00
-James Bond 25                                                                    1910-01-01 00:00:00
-james bond 777                                                                   1910-01-01 00:00:00
-James Bond: License to Thrill                                                    1910-01-01 00:00:00
+Movie Name | release date 
+--- | ---
+James Bond is a Serb|2016-01-06 00:00:00
+Spectre|2015-10-26 00:00:00
+James Bond |2015-07-24 00:00:00
+Jatt James Bond|2014-04-25 00:00:00
+We're Nothing Like James Bond|2012-11-29 00:00:00
+Skyfall|2012-10-25 00:00:00
+James Bond: For Real|2006-11-22 00:00:00
+Casino Royale|2006-11-14 00:00:00
+Best Ever Bond|2002-11-22 00:00:00
+Silhouettes: The James Bond Titles|2000-07-25 00:00:00
+The James Bond Story|1999-10-09 00:00:00
+GoldenEye|1995-11-16 00:00:00
+30 Years of James Bond|1992-10-03 00:00:00
+Octopussy|1983-06-05 00:00:00
+James Bond In India|1983-01-25 00:00:00
+Goldfinger|1964-09-17 00:00:00
+Dr. No |1962-10-04 00:00:00
+James Bond 25|1910-01-01 00:00:00
+james bond 777|1910-01-01 00:00:00
+James Bond: License to Thrill|1910-01-01 00:00:00
 ****************************************************************************************************
 
 
